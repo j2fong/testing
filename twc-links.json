@@ -1,0 +1,10 @@
+{
+    "web": "https://weather.com/weather/today/l/3739b6eedf46b8fa1a2017a40b8d8fa5397d956a8cd29d11b839ed29ccfca978?par=Smartthings",
+    "webForecastHourly": "https://weather.com/weather/hourbyhour/l/3739b6eedf46b8fa1a2017a40b8d8fa5397d956a8cd29d11b839ed29ccfca978?par=Smartthings",
+    "webForecastDaily10": "https://weather.com/weather/tenday/l/3739b6eedf46b8fa1a2017a40b8d8fa5397d956a8cd29d11b839ed29ccfca978?par=Smartthings",
+    "webForecastMonthly": "https://weather.com/weather/monthly/l/3739b6eedf46b8fa1a2017a40b8d8fa5397d956a8cd29d11b839ed29ccfca978?par=Smartthings",
+    "webRadar": "https://weather.com/weather/radar/interactive/l/3739b6eedf46b8fa1a2017a40b8d8fa5397d956a8cd29d11b839ed29ccfca978?par=Smartthings",
+    "webAllergy": "https://weather.com/forecast/allergy/l/3739b6eedf46b8fa1a2017a40b8d8fa5397d956a8cd29d11b839ed29ccfca978?par=Smartthings",
+    "webSevereLocalAlerts": "https://weather.com/weather/alerts/localalerts/l/3739b6eedf46b8fa1a2017a40b8d8fa5397d956a8cd29d11b839ed29ccfca978?par=Smartthings",
+    "iosNow": "twcweather://now/33.74,84.39?aw_campaign=Smartthings"
+}
