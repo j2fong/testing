@@ -105,7 +105,7 @@
 				"life_hum": "55"
 			}
 		},
-		"short_comment": "곳곳에 봄비 소식 있는 오늘,\n우산과 겉옷을 꼭 챙기세요!",
+		"short_comment": "Anything",
 		"urls": {
 			"forecast": "https://ssiotw.kr-weathernews.com/mv3/html/main.html?region=1114000000",
 			"hourly": "https://ssiotw.kr-weathernews.com/mv3/html/today.html?region=1114000000",
